@@ -1,5 +1,8 @@
 SUDOKU SOLVER :
+
 This project is a simple Sudoku Solver implemented in Java using the backtracking algorithm. It takes a partially filled 9x9 Sudoku board as input and solves it by filling in the empty cells while adhering to the rules of Sudoku.
+
+
 
 
 FEATURES :
@@ -12,6 +15,8 @@ FEATURES :
 4. Efficient Search: The solver moves sequentially through the board, placing numbers and recursively attempting to solve the board. It stops as soon as a solution is found.
 
 5. Complete Board Printout: Upon solving the board, the program prints the entire solved Sudoku grid to the console.
+
+
 
 WORKING :
 
